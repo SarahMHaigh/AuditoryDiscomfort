@@ -7,6 +7,7 @@ Requires MATLAB and Psychtoolbox (for Experiment 2 only).
 
 ## Experiment 1: Impact of Amplitude Modulation on Auditory Discomfort
 Stimuli generated using the first third of the code contained in AM_FMstimuli.m
+
 Sounds used in Qualtrics for study contained in AM_Tones.zip
 
 ## Experiment 2: Impact of Amplitude Modulation on Discomfort When Accounting for Volume
@@ -14,8 +15,10 @@ Stimuli generated during data collection. To gain volume measures for each tone 
 
 ## Experiment 3: Impact of Number of Frequency Modulation Sweeps on Auditory Discomfort
 Stimuli generated using the second third of the code contained in AM_FMstimuli.m
+
 Sounds used in Qualtrics for study contained in FM1_Sounds.zip
 
 ## Experiment 4: Impact of Range of Frequencies and Central Frequency from FM Sweeps on Discomfort
 Stimuli generated using the last third of the code contained in AM_FMstimuli.m
+
 Sounds used in Qualtrics for study contained in FM2_Sounds.zip
