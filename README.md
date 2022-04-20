@@ -5,6 +5,8 @@ By Sarah M Haigh, Anna Haugland, Lourdes R Mendoza & Mackenzie Montero
 Stimuli generating scripts, stimuli used in Experiments 1, 3, and 4, and data collection scripts for Experiment 2.
 Requires MATLAB and Psychtoolbox (for Experiment 2 only).
 
+Data for all experiments cin DataForGitHub.xlsx
+
 ## Experiment 1: Impact of Amplitude Modulation on Auditory Discomfort
 Stimuli generated using the first third of the code contained in AM_FMstimuli.m
 
