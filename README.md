@@ -2,6 +2,9 @@
 
 By Sarah M Haigh, Anna Haugland, Lourdes R Mendoza & Mackenzie Montero
 
+(Paper reference: Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (2023). Auditory discomfort in visually sensitive individuals. Frontiers in Psychology: Perception Science. 14, 1126481. https://doi.org/10.3389/fpsyg.2023.1126481. Preprint available: https://doi.org/10.31219/osf.io/uydfm)
+
+
 Stimuli generating scripts, stimuli used in Experiments 1, 3, and 4, and data collection scripts for Experiment 2.
 Requires MATLAB and Psychtoolbox (for Experiment 2 only).
 
@@ -24,3 +27,6 @@ Sounds used in Qualtrics for study contained in FM1_Sounds.zip
 Stimuli generated using the last third of the code contained in AM_FMstimuli.m
 
 Sounds used in Qualtrics for study contained in FM2_Sounds.zip
+
+____
+Questions? Email shaigh at unr dot edu
